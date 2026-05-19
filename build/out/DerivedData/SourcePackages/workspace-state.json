@@ -1,0 +1,47 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "codeeditor",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/ZeeZide/CodeEditor.git",
+          "name" : "CodeEditor"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "f5c076b94f4ceb05abff88ba91d75a8d57143f0c",
+            "version" : "1.2.6"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "CodeEditor"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "highlightr",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/helje5/Highlightr",
+          "name" : "Highlightr"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "bd0358056ff1f12ea83833a9fc1b3b5a396a9da0",
+            "version" : "3.0.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "Highlightr"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}

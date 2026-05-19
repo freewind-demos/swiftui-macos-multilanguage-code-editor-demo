@@ -1,0 +1,14 @@
+Target dependency graph (6 targets)
+Target 'SwiftUIMultilanguageCodeEditorDemo' in project 'SwiftUIMultilanguageCodeEditorDemo'
+➜ Explicit dependency on target 'CodeEditor' in project 'CodeEditor'
+Target 'CodeEditor' in project 'CodeEditor'
+➜ Explicit dependency on target 'CodeEditor' in project 'CodeEditor'
+➜ Explicit dependency on target 'Highlightr' in project 'Highlightr'
+Target 'CodeEditor' in project 'CodeEditor'
+➜ Explicit dependency on target 'Highlightr' in project 'Highlightr'
+Target 'Highlightr' in project 'Highlightr'
+➜ Explicit dependency on target 'Highlightr' in project 'Highlightr'
+➜ Explicit dependency on target 'Highlightr_Highlightr' in project 'Highlightr'
+Target 'Highlightr' in project 'Highlightr'
+➜ Explicit dependency on target 'Highlightr_Highlightr' in project 'Highlightr'
+Target 'Highlightr_Highlightr' in project 'Highlightr' (no dependencies)

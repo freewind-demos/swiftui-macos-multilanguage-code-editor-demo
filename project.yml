@@ -27,3 +27,11 @@ targets:
         CODE_SIGN_STYLE: Manual
         DEVELOPMENT_TEAM: ""
         ENABLE_HARDENED_RUNTIME: NO
+    productName: SwiftUIMultilanguageCodeEditorDemo
+schemes:
+  SwiftUIMultilanguageCodeEditorDemo:
+    build:
+      targets:
+        SwiftUIMultilanguageCodeEditorDemo: all
+    run:
+      config: Debug

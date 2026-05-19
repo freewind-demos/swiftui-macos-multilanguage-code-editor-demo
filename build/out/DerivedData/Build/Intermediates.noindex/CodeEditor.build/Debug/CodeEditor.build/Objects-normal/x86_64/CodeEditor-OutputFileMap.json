@@ -1,0 +1,69 @@
+{
+  "" : {
+    "diagnostics" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor-primary.dia",
+    "emit-module-dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor-primary-emit-module.dia",
+    "pch" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor-primary.swiftdeps"
+  },
+  "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/SourcePackages/checkouts/CodeEditor/Sources/CodeEditor/CodeEditor.swift" : {
+    "const-values" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor.swiftconstvalues",
+    "dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor.d",
+    "diagnostics" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor.dia",
+    "index-unit-output-path" : "/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor.o",
+    "llvm-bc" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor.bc",
+    "object" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor.o",
+    "swift-dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor.swiftdeps",
+    "swiftmodule" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/CodeEditor~partial.swiftmodule"
+  },
+  "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/SourcePackages/checkouts/CodeEditor/Sources/CodeEditor/Language.swift" : {
+    "const-values" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/Language.swiftconstvalues",
+    "dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/Language.d",
+    "diagnostics" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/Language.dia",
+    "index-unit-output-path" : "/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/Language.o",
+    "llvm-bc" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/Language.bc",
+    "object" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/Language.o",
+    "swift-dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/Language.swiftdeps",
+    "swiftmodule" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/Language~partial.swiftmodule"
+  },
+  "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/SourcePackages/checkouts/CodeEditor/Sources/CodeEditor/ThemeName.swift" : {
+    "const-values" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/ThemeName.swiftconstvalues",
+    "dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/ThemeName.d",
+    "diagnostics" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/ThemeName.dia",
+    "index-unit-output-path" : "/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/ThemeName.o",
+    "llvm-bc" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/ThemeName.bc",
+    "object" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/ThemeName.o",
+    "swift-dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/ThemeName.swiftdeps",
+    "swiftmodule" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/ThemeName~partial.swiftmodule"
+  },
+  "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/SourcePackages/checkouts/CodeEditor/Sources/CodeEditor/TypedString.swift" : {
+    "const-values" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/TypedString.swiftconstvalues",
+    "dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/TypedString.d",
+    "diagnostics" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/TypedString.dia",
+    "index-unit-output-path" : "/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/TypedString.o",
+    "llvm-bc" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/TypedString.bc",
+    "object" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/TypedString.o",
+    "swift-dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/TypedString.swiftdeps",
+    "swiftmodule" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/TypedString~partial.swiftmodule"
+  },
+  "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/SourcePackages/checkouts/CodeEditor/Sources/CodeEditor/UXCodeTextView.swift" : {
+    "const-values" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextView.swiftconstvalues",
+    "dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextView.d",
+    "diagnostics" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextView.dia",
+    "index-unit-output-path" : "/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextView.o",
+    "llvm-bc" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextView.bc",
+    "object" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextView.o",
+    "swift-dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextView.swiftdeps",
+    "swiftmodule" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextView~partial.swiftmodule"
+  },
+  "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/SourcePackages/checkouts/CodeEditor/Sources/CodeEditor/UXCodeTextViewRepresentable.swift" : {
+    "const-values" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextViewRepresentable.swiftconstvalues",
+    "dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextViewRepresentable.d",
+    "diagnostics" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextViewRepresentable.dia",
+    "index-unit-output-path" : "/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextViewRepresentable.o",
+    "llvm-bc" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextViewRepresentable.bc",
+    "object" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextViewRepresentable.o",
+    "swift-dependencies" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextViewRepresentable.swiftdeps",
+    "swiftmodule" : "/Volumes/SN550-2T/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/out/DerivedData/Build/Intermediates.noindex/CodeEditor.build/Debug/CodeEditor.build/Objects-normal/x86_64/UXCodeTextViewRepresentable~partial.swiftmodule"
+  }
+}

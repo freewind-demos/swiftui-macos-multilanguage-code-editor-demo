@@ -1,0 +1,1 @@
+@rpath/SwiftUIMultilanguageCodeEditorDemo.debug.dylib
