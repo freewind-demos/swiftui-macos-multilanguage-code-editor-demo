@@ -1,4 +1,0 @@
-module CodeEditor {
-header "CodeEditor-Swift.h"
-export *
-}
