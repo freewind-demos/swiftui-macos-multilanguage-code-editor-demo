@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr-master.dia",
+    "emit-module-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr-master-emit-module.dia",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr-master.swiftdeps"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/resource_bundle_accessor.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/SourcePackages/checkouts/Highlightr/Pod/Classes/CodeAttributedString.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/CodeAttributedString.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/CodeAttributedString.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/CodeAttributedString.dia",
+    "index-unit-output-path" : "/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/CodeAttributedString.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/CodeAttributedString.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/CodeAttributedString.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/CodeAttributedString.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/CodeAttributedString~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/SourcePackages/checkouts/Highlightr/Pod/Classes/Highlightr.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr.dia",
+    "index-unit-output-path" : "/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Highlightr~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/SourcePackages/checkouts/Highlightr/Pod/Classes/HTMLUtils.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/HTMLUtils.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/HTMLUtils.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/HTMLUtils.dia",
+    "index-unit-output-path" : "/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/HTMLUtils.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/HTMLUtils.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/HTMLUtils.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/HTMLUtils.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/HTMLUtils~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/SourcePackages/checkouts/Highlightr/Pod/Classes/Shims.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Shims.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Shims.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Shims.dia",
+    "index-unit-output-path" : "/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Shims.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Shims.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Shims.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Shims.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Shims~partial.swiftmodule"
+  },
+  "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/SourcePackages/checkouts/Highlightr/Pod/Classes/Theme.swift" : {
+    "const-values" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Theme.d",
+    "diagnostics" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Theme.dia",
+    "index-unit-output-path" : "/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Theme.o",
+    "llvm-bc" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Theme.bc",
+    "object" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Theme.o",
+    "swift-dependencies" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/peng.li/workspace/freewind-demos/swiftui-macos-multilanguage-code-editor-demo/build/DerivedData-Debug/Build/Intermediates.noindex/Highlightr.build/Debug/Highlightr.build/Objects-normal/x86_64/Theme~partial.swiftmodule"
+  }
+}
